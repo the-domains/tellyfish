@@ -1,7 +1,7 @@
 name: Tellyfish
 favicon: null
-layout_spectrum: 0.47436364204622805
-typography_spectrum: 0.9624880328774452
+layout_spectrum: 1
+typography_spectrum: 0.87841
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5043969133403152
+    - '#e98224'
+    - '#ffffff'
+    - '#083282'
+    - '#c9d2e3'
+    - '#8b745e'
+  brandStrength: 0.1875
   lightness: 0.06963617959991097
   saturation: 0.4138910372275859
   rhythmicContrast: 0.8375901924446225
